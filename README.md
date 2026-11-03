@@ -5,7 +5,7 @@
 
 > **Build a refreshable Excel model that explains revenue, margin, budget variance, collections risk, and FX/fuel/downtime sensitivity for a fictional field-operations company.**
 
-![Dashboard preview](Screenshot/Energy Operations Financial Model Dashboard.png)
+![Dashboard preview](https://github.com/JedaiahTietie/Energy-Operations-Financial-Model/blob/main/Screenshot/Energy%20Operations%20Financial%20Model%20Dashboard.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Data](https://img.shields.io/badge/Data-Synthetic__fictional-orange.svg)](DATA_NOTICE.md)
