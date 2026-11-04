@@ -12,7 +12,7 @@
 
 **Case:** Delta Line Field Services Ltd. — a fictional Nigerian oil-and-gas field-services company.  
 **Actual period:** January 2023 – December 2025. **Forecast period:** January – December 2026.  
-**Data notice:** All company names, corridors, customers, transactions, FX rates, fuel prices, and incidents are synthetic. **No employer or client data is used.** See [`DATA_NOTICE.md`](DATA_NOTICE.md).
+**Data notice:** All company names, corridors, customers, transactions, FX rates, fuel prices, and incidents are synthetic. **No employer or client data is used.** See [`DATA_NOTICE.md`](https://github.com/JedaiahTietie/Energy-Operations-Financial-Model/blob/main/DATA_NOTICE.md).
 
 ---
 
