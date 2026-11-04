@@ -38,7 +38,7 @@
 | `data/raw/dim_*.csv` | — | Date, cost centre, service line, account, customer, scenario dimensions |
 | `data/expected_clean/` | — | Clean answer-key files and validation summaries |
 
-The raw files contain **intentional** duplicates, missing values, inconsistent text, invalid dates, and `N/A` values. See [`docs/data_quality_issues.md`](docs/data_quality_issues.md).
+The raw files contain **intentional** duplicates, missing values, inconsistent text, invalid dates, and `N/A` values. See [`docs/data_quality_issues.md`]([docs/data_quality_issues.md(https://github.com/JedaiahTietie/Energy-Operations-Financial-Model/blob/main/Screenshot/data_quality_issues.md)).
 
 Regenerate everything with:
 
